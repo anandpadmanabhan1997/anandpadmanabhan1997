@@ -8,7 +8,7 @@ Backend Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anandcelestis@gmail.com](mailto:anandcelestis@gmail.com)
-* 🧠  I'm learning Frappe, ERPNext ,DSA
+* 🧠  I'm learning DSA, Azure DevOps
 * 🤝  I'm open to collaborating on AI/ML
 
 ### Skills
